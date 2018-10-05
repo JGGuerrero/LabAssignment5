@@ -1,0 +1,24 @@
+
+
+  .app-container-grid {
+    display: grid;
+    grid-template-rows: 1fr 3fr 4fr;
+    height: 100vh;
+  }
+
+  /* .main-header,
+  .main-footer {
+    background-color: rgb(181, 186, 255);
+    display: grid;
+    grid-template-columns: 1fr 6fr 2fr;
+  } */
+
+  /* .main-container-grid {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+  } */
+
+  /* .align-center {
+    margin: 15px;
+    border: 1px dashed rgb(252, 13, 232);
+  } */
