@@ -1,6 +1,6 @@
 .main-container-grid {
     display: grid;
-    grid-template-columns: 3fr 3fr 3fr;
+    grid-template-columns: 1fr 7fr 2fr;
     height: 100%;
   }
 
@@ -18,4 +18,10 @@
 
 .add-button {
     font-size: bold;
+    float: right;
+    margin: 10px;
+}
+
+.new-form{
+    background-color: #8eeabf;
 }
