@@ -26,7 +26,7 @@ export class CoursesComponent implements OnInit {
     this.students[1] = {
       id: 1,
       firstName: 'Tom',
-      lastName: 'Brady',
+      lastName: 'Bray',
       course: 'Swimming',
     }
     this.students[2] = {
