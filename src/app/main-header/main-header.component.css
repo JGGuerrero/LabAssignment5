@@ -1,6 +1,7 @@
 .main-header {
-  background-color: rgb(181, 186, 255);
+  /* background-color: rgb(181, 186, 255); */
   display: grid;
   grid-template-columns: 1fr 6fr 2fr;
   height: 100%;
 }
+
